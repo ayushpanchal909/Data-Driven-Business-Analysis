@@ -17,3 +17,18 @@ This process of extracting, cleaning, and visualizing data was repeated for mark
 >How do the transaction and sales distributions vary across customer types, product types, and market zones based on the stacked bar chart?
 
 >What insights can be drawn from the pie charts representing sales volume distribution among customer types, market zones, and product types?
+
+### Conclusion and Visulization
+#### Customer Analysis
+![Untitled design](https://github.com/ayushpanchal909/Sales-insight-analysis/assets/142341609/032d9c9d-7d41-44a5-bbc1-fb732b7bb278)
+<br>
+<br>
+<br>
+<br>
+#### Market Analysis
+![Untitled design (1)](https://github.com/ayushpanchal909/Sales-insight-analysis/assets/142341609/86cf68ef-3778-4b7f-8e1a-b646a9e00dd4)
+
+#### Product Analysis
+![Untitled design (2)](https://github.com/ayushpanchal909/Sales-insight-analysis/assets/142341609/fb11681a-d2cc-4465-98de-ded37a46446d)
+
+
